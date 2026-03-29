@@ -1,10 +1,10 @@
 AI and ML project (TOPIC) My-study-agent-planner
-#Student Details
-#Name:Mahima Singh
-#Restration Number:25bai10292
-Branch:Computer science in AIML
-Unvisty:VIT Bhopal
-Course Code:CSA2001-Foundation in AI and ML
+# Student Details
+Name:Mahima Singh  
+Restration Number:25bai10292  
+Branch:Computer science in AIML  
+Unvisty:VIT Bhopal  
+Course Code:CSA2001-Foundation in AI and ML  
 
 # Project overview
 
