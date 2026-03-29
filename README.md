@@ -5,7 +5,7 @@ AI and ML project (TOPIC) My-study-agent-planner
 Branch:Computer science in AIML
 Unvisty:VIT Bhopal
 Course Code:CSA2001-Foundation in AI and ML
-#
+
 #Project overview
 
 This respositre contains my AI and Ml project on the topic"My study agent planner" as a part of CSA2001 course at vit Bhopal Unversity.The aim of this project to create
@@ -27,7 +27,7 @@ Unlike a standard chatbot that simply responds to text, an agent is designed to 
 1. Goal-Based Agent (The "Planner")This is the best fit for a study agent. Unlike a simple bot that just reacts, a goal-based agent has a target (e.g., "Complete Python Assignment").How it works: It examines different paths to reach your goal. If you have a busy "everyday schedule" on Tuesday, the agent "plans" to move your study session to Wednesday to ensure the goal is still met.In your project: The "Goal" is your successful exam or project completion.
 2. Model-Based Reflex Agent (The "Context-Aware" Agent)If your agent remembers what you did yesterday to decide what to do today, it is "Model-Based."How it works: It maintains an internal "model" or state of your world (e.g., "User finished Chapter 1 yesterday"). It uses this history to decide the next action.In your project: Using Python, you might store your progress in a file or database. The agent reads this "model" to avoid suggesting the same study topic twice.
 3. Simple Reflex Agent (The "Responder")This is the most basic level, often handled by the AIML part of your code.How it works: It follows "If-Then" rules. IF the user says "Schedule," THEN show the calendar. It doesn't "think" about goals; it just reacts to the current input.In your project: This handles your basic chat commands and FAQs.
-4. #Working of the System
+   #Working of the System
 5. 1. The Input Layer (Perception)
 The process begins when the system "perceives" a request or a specific trigger:
 
@@ -74,8 +74,10 @@ System Architecture
 2.  Cognitive Relief & Reduced Decision Fatigue
 3.  Balanced "Life-Work" Harmony
 4.  Automation of "Digital Literacy" Tasks
-5.  #Conclusion
+  #Conclusion
 6.  The My-study-agent-planner successfully demonstrates the power of a Goal-Based AI Agent in solving the modern student's greatest challenge: balancing technical skill development with everyday life management. By integrating structured pattern matching with dynamic Python logic, the system moves beyond passive scheduling into active productivity management.
-7.  #Reference
+  #Reference
 8.  Book.
-9.  AI.
+9.  AI text book
+10.  online sources
+11.  
